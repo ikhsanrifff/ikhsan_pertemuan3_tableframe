@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Linear Layout (Without weight)"
+        android:gravity="center"
+        android:textColor="@color/black"
+    <TextView
+        android:text="BUTTON 1"
+        android:gravity="center"
+        android:background="#008000"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FFFF00"
+        android:text="BUTTON 2"
+        android:textColor="@color/black"
+        android:gravity="center"
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="BUTTON 3"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:background="#0000FF"
+
+    "
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FF1493"
+        android:text="BUTTON 4"
+        android:gravity="center"
+        android:textColor="@color/black"
+</LinearLayout>
+
